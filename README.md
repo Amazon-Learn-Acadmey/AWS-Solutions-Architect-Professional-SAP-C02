@@ -68,6 +68,5 @@ This is a suggested study progression, not an official AWS prerequisite or manda
 
 Combine official AWS exam preparation materials with practical architecture exercises to strengthen your understanding of complex cloud solutions.
 
-- **Official AWS Resources**: Review the [AWS Certified Solutions Architect - Professional page](https://aws.amazon.com/certification/certified-solutions-architect-professional/) and the [official SAP-C02 exam guide](https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-professional-02/solutions-architect-professional-02.html).
 - **CertsGate**: See the [SAP-C01 preparation page](https://certsgate.com/exams/amazon/sap-c01) for supplementary practice material. This page is for the older exam code; verify topics against the current SAP-C02 exam guide before relying on it.
 - **AWS Well-Architected Framework**: Study the [official framework documentation](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) and apply its principles to real or sample AWS architecture scenarios.
